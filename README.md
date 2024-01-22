@@ -1,2 +1,9 @@
-# Videom-audio-text-chat-Flutter-app
-The video, audio, text chat in real time
+# Global Chat
+
+A Video, audio, text chat Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+It is available android& iOS, web, widows,...
